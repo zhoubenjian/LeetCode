@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.genruntimeconfig.cache

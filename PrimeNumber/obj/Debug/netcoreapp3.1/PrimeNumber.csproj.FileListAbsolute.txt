@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/bin/Debug/netcoreapp3.1/ReverseList.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/bin/Debug/netcoreapp3.1/ReverseList.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/bin/Debug/netcoreapp3.1/ReverseList.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/bin/Debug/netcoreapp3.1/ReverseList.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/bin/Debug/netcoreapp3.1/ReverseList.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/obj/Debug/netcoreapp3.1/ReverseList.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/obj/Debug/netcoreapp3.1/ReverseList.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/obj/Debug/netcoreapp3.1/ReverseList.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/obj/Debug/netcoreapp3.1/ReverseList.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/obj/Debug/netcoreapp3.1/ReverseList.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/obj/Debug/netcoreapp3.1/ReverseList.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ReverseList/obj/Debug/netcoreapp3.1/ReverseList.genruntimeconfig.cache

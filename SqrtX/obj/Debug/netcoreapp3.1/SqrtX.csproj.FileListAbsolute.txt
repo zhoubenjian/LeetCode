@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/bin/Debug/netcoreapp3.1/SqrtX.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/bin/Debug/netcoreapp3.1/SqrtX.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/bin/Debug/netcoreapp3.1/SqrtX.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/bin/Debug/netcoreapp3.1/SqrtX.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/bin/Debug/netcoreapp3.1/SqrtX.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/obj/Debug/netcoreapp3.1/SqrtX.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/obj/Debug/netcoreapp3.1/SqrtX.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/obj/Debug/netcoreapp3.1/SqrtX.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/obj/Debug/netcoreapp3.1/SqrtX.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/obj/Debug/netcoreapp3.1/SqrtX.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/obj/Debug/netcoreapp3.1/SqrtX.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/SqrtX/obj/Debug/netcoreapp3.1/SqrtX.genruntimeconfig.cache
