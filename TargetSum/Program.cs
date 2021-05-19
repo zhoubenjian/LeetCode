@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
+/*** 数组中等于目标之和的两元素索引 ***/
 namespace TargetSum
 {
     class Program

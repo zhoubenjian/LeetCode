@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 
+/*** 获取数组中最大的三个元素乘积 ***/
 namespace MaxProduct
 {
     class Program
