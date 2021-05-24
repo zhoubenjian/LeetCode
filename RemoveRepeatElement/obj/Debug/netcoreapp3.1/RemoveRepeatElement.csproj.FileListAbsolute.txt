@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/bin/Debug/netcoreapp3.1/RemoveRepeatElement.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/bin/Debug/netcoreapp3.1/RemoveRepeatElement.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/bin/Debug/netcoreapp3.1/RemoveRepeatElement.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/bin/Debug/netcoreapp3.1/RemoveRepeatElement.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/bin/Debug/netcoreapp3.1/RemoveRepeatElement.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/obj/Debug/netcoreapp3.1/RemoveRepeatElement.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/obj/Debug/netcoreapp3.1/RemoveRepeatElement.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/obj/Debug/netcoreapp3.1/RemoveRepeatElement.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/obj/Debug/netcoreapp3.1/RemoveRepeatElement.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/obj/Debug/netcoreapp3.1/RemoveRepeatElement.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/obj/Debug/netcoreapp3.1/RemoveRepeatElement.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/RemoveRepeatElement/obj/Debug/netcoreapp3.1/RemoveRepeatElement.genruntimeconfig.cache

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 /*** 数组中等于目标之和的两元素索引 ***/
 namespace TargetSum
@@ -50,7 +51,7 @@ namespace TargetSum
 
         
         /// <summary>
-        /// 二分查找
+        /// 二分查找（仅限于有序排列数组）
         /// </summary>
         /// <param name="nums"></param>
         /// <param name="target"></param>
@@ -85,7 +86,7 @@ namespace TargetSum
 
 
         /// <summary>
-        /// 双指针算法
+        /// 双指针算法（仅限于有序排列数组）
         /// </summary>
         /// <param name="nums"></param>
         /// <param name="target"></param>
@@ -101,10 +102,12 @@ namespace TargetSum
                 }
                 else if (nums[l] + nums[h] > target)
                 {
+                    // 有指针左移
                     h--;
                 }
                 else if (nums[1] + nums[h] < target)
                 {
+                    // 左指针右移
                     l++;
                 }
             }
@@ -116,13 +119,17 @@ namespace TargetSum
         {
             try
             {
-                int[] nums = new[] {1, 2, 3, 4, 5, 6};
+                int[] nums = new[] {2, 1, 4, 6, 3, 5};
+                nums = nums.OrderBy(t => t).ToArray();
                 int[] res = Solution4(nums, 10);
                     // Solution3(nums, 10);
                     // Solution2(nums, 10);
                     // Solution1(nums, 10);
-                    
-                Console.WriteLine(res);
+
+                foreach (var i in res)
+                {
+                    Console.Write($"{i}, ");
+                }
             }
             catch (Exception e)
             {

@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProduct", "MaxProduct\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetSum", "TargetSum\TargetSum.csproj", "{84AD638D-8468-4E7A-958C-50F1E79B872F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveRepeatElement", "RemoveRepeatElement\RemoveRepeatElement.csproj", "{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{84AD638D-8468-4E7A-958C-50F1E79B872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84AD638D-8468-4E7A-958C-50F1E79B872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84AD638D-8468-4E7A-958C-50F1E79B872F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
