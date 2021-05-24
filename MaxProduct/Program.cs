@@ -10,7 +10,7 @@ namespace MaxProduct
         {
             try
             {
-                int[] nums = {2, 3, 1, 5, 4};
+                int[] nums = {1, 2, 3, 4, 5};
                 Console.WriteLine(Sort(nums));
                 Console.WriteLine(Iterator(nums));
             }
@@ -28,9 +28,6 @@ namespace MaxProduct
         /// <returns></returns>
         public static int Sort(int[] nums)
         {
-            // 排序（必须）
-            nums.OrderBy(t => t);
-
             int length = nums.Length;
             return Math.Max(nums[0] * nums[1] * nums[length - 1], nums[length - 3] * nums[length - 2] * nums[length - 1]);
         }
@@ -43,11 +40,9 @@ namespace MaxProduct
         /// <returns></returns>
         public static int Iterator(int[] nums)
         {
-            // 排序（必须）
-            nums.OrderBy(t => t);
             int max1 = Int32.MinValue, max2 = Int32.MinValue, max3 = Int32.MinValue;
             int min1 = Int32.MaxValue, min2 = Int32.MaxValue;
-
+            
             foreach (var num in nums)
             {
                 if (num > max1)
