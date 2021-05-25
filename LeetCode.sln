@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetSum", "TargetSum\Targ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveRepeatElement", "RemoveRepeatElement\RemoveRepeatElement.csproj", "{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fib", "Fib\Fib.csproj", "{89699FD5-3D54-41AA-B217-FB8A8EB03BFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3564A34-DCC0-4D89-BC0F-CFBBD061B767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89699FD5-3D54-41AA-B217-FB8A8EB03BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89699FD5-3D54-41AA-B217-FB8A8EB03BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89699FD5-3D54-41AA-B217-FB8A8EB03BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89699FD5-3D54-41AA-B217-FB8A8EB03BFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/bin/Debug/netcoreapp3.1/Fib.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/bin/Debug/netcoreapp3.1/Fib.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/bin/Debug/netcoreapp3.1/Fib.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/bin/Debug/netcoreapp3.1/Fib.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/bin/Debug/netcoreapp3.1/Fib.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/obj/Debug/netcoreapp3.1/Fib.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/obj/Debug/netcoreapp3.1/Fib.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/obj/Debug/netcoreapp3.1/Fib.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/obj/Debug/netcoreapp3.1/Fib.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/obj/Debug/netcoreapp3.1/Fib.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/obj/Debug/netcoreapp3.1/Fib.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/Fib/obj/Debug/netcoreapp3.1/Fib.genruntimeconfig.cache
