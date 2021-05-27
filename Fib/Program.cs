@@ -47,14 +47,40 @@ namespace Fib
             arr[num] = Recursion(arr, num - 1) + Recursion(arr, num - 2);
             return arr[num];
         }
+
+
+        /// <summary>
+        /// 双指针算法
+        /// </summary>
+        /// <param name="num"></param>
+        /// <returns></returns>
+        public static int TwoPointMethod(int num)
+        {
+            int low = 0, high = 1;
+            int sum = 0;
+            for (int i = 2; i <= num; i++)
+            {
+                sum = low + high;
+                low = high;
+                high = sum;
+            }
+            
+            return sum;
+        }
         
         
         static void Main(string[] args)
         {
             try
             {
-                // Console.WriteLine($"{Calculate1(10)}");
+                // 暴力递归
+                Console.WriteLine($"{Calculate1(10)}");
+                
+                // 去重递归
                 Console.WriteLine("{0}", Calculate2(10));
+                
+                // 双指针算法
+                Console.WriteLine($"{TwoPointMethod(10)}");
             }
             catch (Exception e)
             {
