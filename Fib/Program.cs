@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
+/*** 菲波那切数列 ***/
 namespace Fib
 {
     class Program

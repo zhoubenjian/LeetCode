@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/bin/Debug/netcoreapp3.1/ArrangeCoin.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/bin/Debug/netcoreapp3.1/ArrangeCoin.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/bin/Debug/netcoreapp3.1/ArrangeCoin.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/bin/Debug/netcoreapp3.1/ArrangeCoin.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/bin/Debug/netcoreapp3.1/ArrangeCoin.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/obj/Debug/netcoreapp3.1/ArrangeCoin.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/obj/Debug/netcoreapp3.1/ArrangeCoin.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/obj/Debug/netcoreapp3.1/ArrangeCoin.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/obj/Debug/netcoreapp3.1/ArrangeCoin.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/obj/Debug/netcoreapp3.1/ArrangeCoin.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/obj/Debug/netcoreapp3.1/ArrangeCoin.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/ArrangeCoin/obj/Debug/netcoreapp3.1/ArrangeCoin.genruntimeconfig.cache
