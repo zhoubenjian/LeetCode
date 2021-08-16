@@ -1,0 +1,12 @@
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/bin/Debug/netcoreapp3.1/DynamicProgramming.deps.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/bin/Debug/netcoreapp3.1/DynamicProgramming.runtimeconfig.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/bin/Debug/netcoreapp3.1/DynamicProgramming.runtimeconfig.dev.json
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/bin/Debug/netcoreapp3.1/DynamicProgramming.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/bin/Debug/netcoreapp3.1/DynamicProgramming.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/obj/Debug/netcoreapp3.1/DynamicProgramming.csprojAssemblyReference.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/obj/Debug/netcoreapp3.1/DynamicProgramming.AssemblyInfoInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/obj/Debug/netcoreapp3.1/DynamicProgramming.AssemblyInfo.cs
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/obj/Debug/netcoreapp3.1/DynamicProgramming.csproj.CoreCompileInputs.cache
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/obj/Debug/netcoreapp3.1/DynamicProgramming.dll
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/obj/Debug/netcoreapp3.1/DynamicProgramming.pdb
+/Users/zhoubenjian/Desktop/C#/RiderProjects/LeetCode/DynamicProgramming/obj/Debug/netcoreapp3.1/DynamicProgramming.genruntimeconfig.cache
